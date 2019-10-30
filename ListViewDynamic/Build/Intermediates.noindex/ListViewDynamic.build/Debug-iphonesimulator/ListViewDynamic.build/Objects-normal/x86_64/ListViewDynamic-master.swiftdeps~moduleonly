@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "686e4060bf5d086466777127bf5cf603"
+build_time: [1571989585, 872903000]
+inputs:
+  "/Users/kevaldattani/Desktop/SwiftUI/ListViewDynamic/ListViewDynamic/AppDelegate.swift": [1571985791, 340061924]
+  "/Users/kevaldattani/Desktop/SwiftUI/ListViewDynamic/ListViewDynamic/SceneDelegate.swift": [1571985791, 350873284]
+  "/Users/kevaldattani/Desktop/SwiftUI/ListViewDynamic/ListViewDynamic/ContentView.swift": [1571989585, 552294836]
+  "/Users/kevaldattani/Desktop/SwiftUI/ListViewDynamic/ListViewDynamic/TextField.swift": [1571987201, 200347973]
